@@ -25,8 +25,8 @@ This project implements a comprehensive e-commerce database system with support 
 - Custom product attributes
 - Flexible attribute categorization
 
-## Team Members
-[Your Names Here]
+## Team Member
+Clinton Ochieng
 
 ## Documentation
 - ERD available in `/ERD` folder
